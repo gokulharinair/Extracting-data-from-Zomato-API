@@ -5,5 +5,4 @@ Data has been directly extracted and analysed from Zomato API in the first noteb
 
 
 
-![alt text](https://b.zmtcdn.com/images/developers/api_icon3.png?output-format=webp)                           ![alt text](https://b.zmtcdn.com/images/developers/api_icon2.png?output-format=webp)                                                              
-                                            ![alt text](https://b.zmtcdn.com/images/developers/api_icon1.png?output-format=webp)
+![alt text](https://b.zmtcdn.com/images/developers/api_icon3.png?output-format=webp)                                                       ![alt text](https://b.zmtcdn.com/images/developers/api_icon1.png?output-format=webp)
