@@ -11,6 +11,7 @@ Data has been directly extracted and analysed from Zomato API in the first noteb
 
 
 
-                                                                         ![alt text](https://mimeti.co/wp-content/uploads/2015/01/gif-technologies-API.gif)
-
+<p align="center">
+  <img src="https://mimeti.co/wp-content/uploads/2015/01/gif-technologies-API.gif">
+</p>
 
